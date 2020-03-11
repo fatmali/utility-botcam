@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/utility-botcam/precache-manifest.92d263462a7858684efd8adbc856944a.js"
+  "/utility-botcam/precache-manifest.94c5d5c8463408825862d92b4eda405e.js"
 );
 
 self.addEventListener('message', (event) => {

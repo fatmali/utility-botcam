@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "72ba30b0c0b284b0e65ddad10a00daa0",
+    "revision": "2cad12b176d38db0c55bf1c5dc5ec28c",
     "url": "/utility-botcam/index.html"
   },
   {
-    "revision": "efc34c8017e14a80b686",
+    "revision": "767a65d7b9e4493cb284",
     "url": "/utility-botcam/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/utility-botcam/static/js/2.23d91f64.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "efc34c8017e14a80b686",
-    "url": "/utility-botcam/static/js/main.64e556b1.chunk.js"
+    "revision": "767a65d7b9e4493cb284",
+    "url": "/utility-botcam/static/js/main.f6e51745.chunk.js"
   },
   {
     "revision": "e7281ff987d504aba38b",
