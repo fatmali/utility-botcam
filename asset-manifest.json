@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/utility-botcam/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/utility-botcam/static/js/main.e6590054.chunk.js",
+    "main.js.map": "/utility-botcam/static/js/main.e6590054.chunk.js.map",
+    "runtime-main.js": "/utility-botcam/static/js/runtime-main.2f8bc78c.js",
+    "runtime-main.js.map": "/utility-botcam/static/js/runtime-main.2f8bc78c.js.map",
+    "static/js/2.23d91f64.chunk.js": "/utility-botcam/static/js/2.23d91f64.chunk.js",
+    "static/js/2.23d91f64.chunk.js.map": "/utility-botcam/static/js/2.23d91f64.chunk.js.map",
+    "index.html": "/utility-botcam/index.html",
+    "precache-manifest.5e4c0b168d1aff27de6258ff97581a9d.js": "/utility-botcam/precache-manifest.5e4c0b168d1aff27de6258ff97581a9d.js",
+    "service-worker.js": "/utility-botcam/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/utility-botcam/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.23d91f64.chunk.js.LICENSE.txt": "/utility-botcam/static/js/2.23d91f64.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f8bc78c.js",
+    "static/js/2.23d91f64.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.e6590054.chunk.js"
+  ]
+}
