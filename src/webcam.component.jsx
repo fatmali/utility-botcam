@@ -42,7 +42,7 @@ const WebcamCapture = () => {
             height={560}
             ref={webcamRef}
             screenshotFormat="image/jpeg"
-            width={640}
+            width={560}
             videoConstraints={videoConstraints}
           />
           <button
