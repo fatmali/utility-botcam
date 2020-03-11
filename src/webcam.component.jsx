@@ -28,7 +28,7 @@ const WebcamCapture = () => {
   };
 
   return (
-    <div style={{ position: "relative" }}>
+    <div style={{ position: "relative", marginBottom: "16px" }}>
       {showCamera ? (
         <div
           style={{
@@ -39,10 +39,10 @@ const WebcamCapture = () => {
         >
           <Webcam
             audio={false}
-            height="560"
+            height={560}
             ref={webcamRef}
             screenshotFormat="image/jpeg"
-            weight="560"
+            weight={720}
             videoConstraints={videoConstraints}
           />
           <button
