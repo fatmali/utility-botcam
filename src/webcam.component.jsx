@@ -39,7 +39,7 @@ const WebcamCapture = () => {
         >
           <Webcam
             audio={false}
-            height={560}
+            height={720}
             ref={webcamRef}
             screenshotFormat="image/jpeg"
             width={720}
